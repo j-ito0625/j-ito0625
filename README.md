@@ -40,8 +40,11 @@ stack = {
 
 ### ✧ Activities
 ・Quantum Software Development Group 2023 `@QSRH`
+
 ・Group Work: Quantum Annealing Implementation `@Osaka_University`
+
 ・ML Engineer Intern `@SmartTrade`
+
 ・Software Engineer Intern `@Algoage`
 
 
