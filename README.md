@@ -1,4 +1,4 @@
-# About
+# Hi there 👋 
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://www.archlinux.jp/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -6,50 +6,45 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)](https://qiskit.org/)
 
-## ⚡ Junsei Ito 
+## ⚡ I am...
 
-Exploring novel control paradigms through physics-informed deep learning and quantum computation.
-`@Waseda_University`
+I'm Junsei Ito - a computer science student at Waseda University, Exploring the interface between **Cyber space** and **Physical space** through the combination of **Physics-Informed Nerural Networks** and **Control theory**. 
+Other interests include the integration and organization of **Control theory** and **Quantum Computing**.
 
-### 🎯 Research Focus
-```python
-domains = {
-    "control":    "physics-informed neural control systems",
-    "quantum":    "pulse-level optimization & quantum annealing",
-    "ML":         "deep learning × dynamical systems",
-    "trading":    "algorithmic systems & real-time control"
-}
-```
+## 🎯 Research Focus
 
-### ⚛ Projects & Contributions
-・Implemented quantum annealing via pulse-level control on NISQ devices `@Osaka_University`
-・Developing adaptive PID control using physics-informed neural networks
-・Designing ML-based trading algorithms with transformers `@SmartTrade`
-・Built LINE chatbot systems with natural language processing `@Algoage`
+- `Control Theory × Deep Learning`  
+Advanced control systems enhanced by neural networks and physics-informed learning
 
-### 🔮 Technical Stack
-```python
-stack = {
-    "deep_learning": ["PyTorch", "TensorFlow", "JAX"],
-    "scientific":    ["CUDA", "NumPy", "SciPy"],
-    "quantum":       ["Qiskit", "Qulacs", "PulseOpt"],
-    "backend":       ["Python", "RUST", "AWS", "SQL"],
-    "languages":     ["Native JP", "EN (TOEIC 930)"]
-}
-```
+- `Information Geometry & Optimization`  
+Optimization on manifolds and geometric methods in machine learning
 
-### ✧ Activities
-・Quantum Software Development Group 2023 `@QSRH`
+- `Statistical Physics & Information`  
+Information thermodynamics and optimal transport theory
 
-・Group Work: Quantum Annealing Implementation `@Osaka_University`
+- `Quantum Computing`  
+Pulse-level optimization and quantum annealing on NISQ devices
 
-・ML Engineer Intern `@SmartTrade`
+## ⚛️ Projects & Contributions
+- Implemented quantum annealing via pulse-level control on NISQ devices `@Osaka_University` ( Jun. 2023 ~ present )
+- Designing ML-based trading algorithms with transformers `@SmartTrade` (Nov. 2023 ~ present )
+- Built LINE chatbot systems with natural language processing `@Algoage` ( Feb. 2023 ~ Mar. 2024 )
 
-・Software Engineer Intern `@Algoage`
+## 🔮 Technical Stack
+
+- **Deep Learning** `PyTorch` `TensorFlow` `JAX` `CUDA`  
+- **Quantum** `Quri-Parts` `Qiskit` `Qulacs` `PulseOpt` `Cirq`  
+- **Systems** `Python` `RUST` `AWS` `SQL` `C++` `C#` `Java`
+- **Languages** `Native JP`
+
+## ✧ Activities
+- Quantum Software Development Group 2023 `@QSRH`  
+- Group Work: Quantum Annealing Implementation `@Osaka_University`  
+- ML Engineer Intern `@SmartTrade`  
+- Software Engineer Intern `@Algoage`  
 
 
-
-# Stats
+# 📊 GitHub Stats
 
 <p align="left">
   <picture>
