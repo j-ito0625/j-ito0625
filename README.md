@@ -1,10 +1,10 @@
 # About
 
-[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://www.archlinux.jp/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)](https://qiskit.org/)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://www.archlinux.jp/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)](https://qiskit.org/)
 
 ## ⚡ Junsei Ito 
 
@@ -12,7 +12,7 @@ Exploring novel control paradigms through physics-informed deep learning and qua
 `@Waseda_University`
 
 ### 🎯 Research Focus
-```py
+```python
 domains = {
     "control":    "physics-informed neural control systems",
     "quantum":    "pulse-level optimization & quantum annealing",
@@ -28,7 +28,7 @@ domains = {
 ・Built LINE chatbot systems with natural language processing `@Algoage`
 
 ### 🔮 Technical Stack
-```py
+```python
 stack = {
     "deep_learning": ["PyTorch", "TensorFlow", "JAX"],
     "scientific":    ["CUDA", "NumPy", "SciPy"],
