@@ -3,7 +3,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ⚡ I am...</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  I am...</h1></summary>
   </ul>
 </div>
 
@@ -16,7 +16,7 @@
 Junsei Ito - a computer science student at Waseda University, Exploring the interface between **Cyber space** and **Physical space** through the combination of **Physics-Informed Nerural Networks** and **Control theory**. 
 Other interests include the integration and organization of **Control theory** and **Quantum Computing**.
 
-## 🎯 Research Focus
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Research Focus
 
 - `Control Theory × Deep Learning`  
 Advanced control systems enhanced by neural networks and physics-informed learning
