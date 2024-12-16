@@ -6,46 +6,44 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)](https://qiskit.org/)
 
+## ⚡ Junsei Ito 
 
-## ⚗️ Junsei Ito 
+Exploring novel control paradigms through physics-informed deep learning and quantum computation.
+`@Waseda_University`
 
-Creating new control paradigms at the intersection of physics, computation, and quantum systems @Waseda_Univ
-
--------------------
-
-### 🌌 Research & Engineering
-`computation` × `physics` × `control` × `quantum`
-
-🎯 interests:
-```
-control theory × deep learning integration
-physics-informed neural networks
-quantum pulse optimization & annealing
-algorithmic trading & real-time systems
-```
-
-⚡ contributions:
-```
-developed quantum annealing on NISQ devices via pulse control @Osaka_Univ
-implemented physics-informed neural control systems
-designed ML-based trading algorithms @SmartTrade
-built production-level chatbots @Algoage
-```
-
-### 🧪 Technical Stack 
-```python
-tools = {
-    "computation": ["PyTorch", "TensorFlow", "CUDA", "NumPy"],
-    "quantum":     ["Qiskit", "Qulacs", "Pulse Control"],
-    "systems":     ["Python", "RUST", "AWS", "SQL"],
-    "languages":   ["Native JP", "EN (TOEIC 930)"]
+### 🎯 Research Focus
+```py
+domains = {
+    "control":    "physics-informed neural control systems",
+    "quantum":    "pulse-level optimization & quantum annealing",
+    "ML":         "deep learning × dynamical systems",
+    "trading":    "algorithmic systems & real-time control"
 }
 ```
 
-### 🔮 Research Background
-`control systems` · `neural computation` · `quantum software` · `algorithmic intelligence`
+### ⚛ Projects & Contributions
+・Implemented quantum annealing via pulse-level control on NISQ devices `@Osaka_University`
+・Developing adaptive PID control using physics-informed neural networks
+・Designing ML-based trading algorithms with transformers `@SmartTrade`
+・Built LINE chatbot systems with natural language processing `@Algoage`
 
--------------------
+### 🔮 Technical Stack
+```py
+stack = {
+    "deep_learning": ["PyTorch", "TensorFlow", "JAX"],
+    "scientific":    ["CUDA", "NumPy", "SciPy"],
+    "quantum":       ["Qiskit", "Qulacs", "PulseOpt"],
+    "backend":       ["Python", "RUST", "AWS", "SQL"],
+    "languages":     ["Native JP", "EN (TOEIC 930)"]
+}
+```
+
+### ✧ Activities
+・Quantum Software Development Group 2023 `@QSRH`
+・Group Work: Quantum Annealing Implementation `@Osaka_University`
+・ML Engineer Intern `@SmartTrade`
+・Software Engineer Intern `@Algoage`
+
 
 
 # Stats
