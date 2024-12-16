@@ -5,7 +5,6 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)](https://qiskit.org/)
-[![Qulacs](https://img.shields.io/badge/Qulacs-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABYUlEQVR42mNgGHLg/3/G/4yMjP+JxUDN/wE2AOh8RiD+T0JYMILUQw0AaUYGykBNDP+ZGP4IMPz/z8Twn5mBVAwU+A9UAvSfJRSDBP///8/yn4JQtWXj+//qFPj/2Rr+/+Tn/P9LgPu/FB/bH0menRfFuCfsFOX4/19SkPu/jDD3f3Uhzv+qQuz/lQXZ/ysJcv5XEeT4ryrI+l9NkPW/uhDrfw0h1v9aQmz/tYXY/ukIcfzXFeL8ryfI9V9fkOe/gSD3f0MB7v+i3MzfxHnY/kvKCvxX0lX8r2Jg9F/V0Pi/mrHxf3UTk/9qpub/1cwtQDwNiC2B2AqIrR0c/1s5Of139PD87xsQ9D8kIup/Vmb2/7z8gv+FRcX/S8sq/ldV1/yvb2j839zM4r+9g+MdNze3/4yMDH/QowfkGezpAGRbYtIByLlkGQDKR8SmA5DTsCZnkIVRo5GUdEAaAABvmI9tPPj7NgAAAABJRU5ErkJggg==)](https://github.com/qulacs/qulacs)
 
 I am...
 
@@ -17,7 +16,6 @@ I am...
 
 # Stats
 
-## Activity
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
@@ -31,7 +29,6 @@ I am...
   </picture>
 </p>
 
-## Contributions
 <p align="left">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="800" />
@@ -40,7 +37,6 @@ I am...
 	</picture>
 </p>
 
-## Languages & Tools
 <p align="left">
 <picture>
   <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
