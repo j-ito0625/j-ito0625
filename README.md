@@ -34,8 +34,8 @@ Pulse-level optimization and quantum annealing on NISQ devices
 
 - **Deep Learning** `PyTorch` `TensorFlow` `JAX` `CUDA`  
 - **Quantum** `Quri-Parts` `Qiskit` `Qulacs` `PulseOpt` `Cirq`  
-- **Systems** `Python` `RUST` `AWS` `SQL` `C++` `C#` `Java`
-- **Languages** `Native JP`
+- **Systems** `Python` `C` `MATLAB` `RUST` `AWS` `SQL` `C++` `C#` `Java`
+- **Languages** `Native JP` `EN`
 
 ## ✧ Activities
 - Quantum Software Development Group 2023 `@QSRH`  
