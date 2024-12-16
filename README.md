@@ -6,13 +6,47 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)](https://qiskit.org/)
 
-I am...
 
-- A researcher at Department of Advanced Science and Engineering, Waseda University
-- Focusing on the fusion of Control Theory and Deep Learning
-- Contributing to Quantum Computing research through pulse optimization and quantum software development
-- Developing trading algorithms and intelligent control systems
-- Proficient in Python and quantum computing frameworks
+## ⚗️ Junsei Ito 
+
+Creating new control paradigms at the intersection of physics, computation, and quantum systems @Waseda_Univ
+
+-------------------
+
+### 🌌 Research & Engineering
+`computation` × `physics` × `control` × `quantum`
+
+🎯 interests:
+```
+control theory × deep learning integration
+physics-informed neural networks
+quantum pulse optimization & annealing
+algorithmic trading & real-time systems
+```
+
+⚡ contributions:
+```
+developed quantum annealing on NISQ devices via pulse control @Osaka_Univ
+implemented physics-informed neural control systems
+designed ML-based trading algorithms @SmartTrade
+built production-level chatbots @Algoage
+```
+
+### 🧪 Technical Stack 
+```python
+tools = {
+    "computation": ["PyTorch", "TensorFlow", "CUDA", "NumPy"],
+    "quantum":     ["Qiskit", "Qulacs", "Pulse Control"],
+    "systems":     ["Python", "RUST", "AWS", "SQL"],
+    "languages":   ["Native JP", "EN (TOEIC 930)"]
+}
+```
+
+### 🔮 Research Background
+`control systems` · `neural computation` · `quantum software` · `algorithmic intelligence`
+
+-------------------
+
 
 # Stats
 
