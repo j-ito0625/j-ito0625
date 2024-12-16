@@ -1,12 +1,17 @@
-# Hi there 👋 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ⚡ I am...</h1></summary>
+  </ul>
+</div>
 
-[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://www.archlinux.jp/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)](https://qiskit.org/)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=TIme+New+Roman&weight=500&size=25&pause=1000&color=09F1FF&center=true&vCenter=true&width=600&height=100&lines=Junsei+Ito;Computer+Science+Student+%40+WASEDA+Univ.;Quantum+Software+Engineer" alt="Typing SVG" /></a>
+</p>
 
-## ⚡ I am...
+
 
 Junsei Ito - a computer science student at Waseda University, Exploring the interface between **Cyber space** and **Physical space** through the combination of **Physics-Informed Nerural Networks** and **Control theory**. 
 Other interests include the integration and organization of **Control theory** and **Quantum Computing**.
@@ -30,7 +35,12 @@ Pulse-level optimization and quantum annealing on NISQ devices
 - Designing ML-based trading algorithms with transformers `@SmartTrade` (Nov. 2023 ~ present )
 - Built LINE chatbot systems with natural language processing `@Algoage` ( Feb. 2023 ~ Mar. 2024 )
 
-## 🔮 Technical Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Stack
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://www.archlinux.jp/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)](https://qiskit.org/)
 
 - **Deep Learning** `PyTorch` `TensorFlow` `JAX` `CUDA`  
 - **Quantum** `Quri-Parts` `Qiskit` `Qulacs` `PulseOpt` `Cirq`  
@@ -44,7 +54,7 @@ Pulse-level optimization and quantum annealing on NISQ devices
 - Software Engineer Intern `@Algoage`  
 
 
-# 📊 GitHub Stats
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <p align="left">
   <picture>
@@ -74,3 +84,7 @@ Pulse-level optimization and quantum annealing on NISQ devices
   <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
 </picture>
 </p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
