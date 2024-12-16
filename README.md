@@ -8,7 +8,7 @@
 
 ## ⚡ I am...
 
-I'm Junsei Ito - a computer science student at Waseda University, Exploring the interface between **Cyber space** and **Physical space** through the combination of **Physics-Informed Nerural Networks** and **Control theory**. 
+Junsei Ito - a computer science student at Waseda University, Exploring the interface between **Cyber space** and **Physical space** through the combination of **Physics-Informed Nerural Networks** and **Control theory**. 
 Other interests include the integration and organization of **Control theory** and **Quantum Computing**.
 
 ## 🎯 Research Focus
