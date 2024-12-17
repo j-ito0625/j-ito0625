@@ -1,19 +1,14 @@
 name: generate 3d chart for profile contributions
-
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: "0 0 * * *"  # cronの構文を修正しました
   # allows to manually run the job at any time
   workflow_dispatch:
-
   # run on every push on the main branch
-  # don't forget to change if you're using 'master' branch
   push:
     branches:
     - main
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,11 +19,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff-index --quiet HEAD || echo "changes=true" >> $GITHUB_OUTPUT
       - name: Commit & Push
+        if: steps.check_changes.outputs.changes == 'true'
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
           git push
-
