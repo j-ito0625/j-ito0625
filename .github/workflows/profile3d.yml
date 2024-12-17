@@ -2,7 +2,7 @@ name: generate 3d chart for profile contributions
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *"  # cronの構文を修正しました
+    - cron: "0 0 * * *"
   # allows to manually run the job at any time
   workflow_dispatch:
   # run on every push on the main branch
@@ -30,4 +30,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
-          git push
+          git pull --rebase origin main    
+          git push origin main             
