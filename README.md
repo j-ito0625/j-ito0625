@@ -18,6 +18,8 @@ Other interests include the integration and organization of **Control theory** a
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Research Focus
 
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - `Control Theory × Deep Learning`  
 Advanced control systems enhanced by neural networks and physics-informed learning
 
