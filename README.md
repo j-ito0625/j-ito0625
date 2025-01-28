@@ -13,7 +13,7 @@
 
 
 
-Junsei Ito - a computer science student at Waseda University, Exploring the interface between **Cyber space** and **Physical space** through the combination of **Physics-Informed Nerural Networks** and **Control theory**. 
+Junsei Ito - a computer science student at Waseda University, Exploring the interface between **Cyber space** and **Physical space** through the combination of **Deep Neural Networks** and **Control theory**. 
 Other interests include the integration and organization of **Control theory** and **Quantum Computing**.
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Research Focus
@@ -33,8 +33,8 @@ Information thermodynamics and optimal transport theory
 Pulse-level optimization and quantum annealing on NISQ devices
 
 ## ⚛️ Projects & Contributions
-- Implemented quantum annealing via pulse-level control on NISQ devices `@Osaka_University` ( Jun. 2023 ~ present )
 - Designing ML-based trading algorithms with transformers `@SmartTrade` (Nov. 2023 ~ present )
+- Implemented quantum annealing via pulse-level control on NISQ devices `@Osaka_University` ( Jun. 2023 ~ Mar. 2024)
 - Built LINE chatbot systems with natural language processing `@Algoage` ( Feb. 2023 ~ Mar. 2024 )
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Stack
@@ -50,10 +50,10 @@ Pulse-level optimization and quantum annealing on NISQ devices
 - **Languages** `Native JP` `EN`
 
 ## ✧ Activities
-- Quantum Software Development Group 2023 `@QSRH`  
-- Group Work: Quantum Annealing Implementation `@Osaka_University`  
-- ML Engineer Intern `@SmartTrade`  
-- Software Engineer Intern `@Algoage`  
+- Quantum Software Development Group 2023 `@QSRH`
+- Group Work: Quantum Annealing Implementation `@Osaka_University`
+- ML Engineer Intern `@SmartTrade`
+- Software Engineer Intern `@Algoage`
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
