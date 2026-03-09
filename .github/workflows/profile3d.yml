@@ -19,7 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: '{"ignoredLanguages": ["TeX", "Less", "QMake", "Lex", "Gnuplot", "Jupyter Notebook", "HTML"]}'
+          SETTING_JSON: setting.json
       - name: Check for changes
         id: check_changes
         run: |
