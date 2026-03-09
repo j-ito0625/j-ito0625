@@ -6,7 +6,7 @@
 received the B.Eng. degree in electrical engineering and bioscience from Waseda University, Tokyo, Japan in 2025. He is currently a master’s student with the Department of Electrical Engineering and Bioscience, Waseda University. He is also a Japan Science and Technology Agency ACT-X
 researcher. 
 
-He is engaged in interdisciplinary research combining **Control Theory** × **Information Science** × **Physics**, centered on systems control theory. For the essential constraints of physical systems such as partial observability and uncertainty, I explore new solutions by integrating the universal laws provided by Physics with the data-driven learning and estimation capabilities enabled by Information Science within the framework of control theory.
+He is engaged in interdisciplinary research combining **Control Theory** × **Information Science** × **Physics**, centered on systems control theory. For the essential constraints of physical systems such as partial observability and uncertainty, he explores new solutions by integrating the universal laws provided by Physics with the data-driven learning and estimation capabilities enabled by Information Science within the framework of control theory.
 
 :wink: Visit my personal website: https://j-ito0625.github.io/
 
