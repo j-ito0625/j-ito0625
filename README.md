@@ -25,13 +25,13 @@ He is engaged in interdisciplinary research combining **Control Theory** × **In
   </picture>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" />
     <img alt="achievements" src="output/metrics.plugin.achievements.compact.svg" width="400" />
   </picture>
-</p>
+</p> -->
 
 
 <!--horizontal divider(gradiant)-->
