@@ -33,6 +33,7 @@ jobs:
         plugin_languages_ignored: >-
           tex, less, qmake, lex, gnuplot, jupyter notebook, html
         plugin_languages_details: bytes-size, percentage
+        plugin_languages_categories: markup, programming, data
         plugin_languages_limit: 8
         plugin_followup: yes
         plugin_followup_indepth: yes
