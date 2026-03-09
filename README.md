@@ -14,31 +14,23 @@ He is engaged in interdisciplinary research combining **Control Theory** × **In
 
 <p align="left">
   <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-	<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.base.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" />
+    <img alt="github profile stats" src="output/metrics.base.svg" width="400" />
   </picture>
   <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-	<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="output/details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" />
+    <img alt="most used languages" src="output/details.svg" width="400" />
   </picture>
 </p>
 
 <p align="left">
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="800" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="800" />
-	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" />
+    <img alt="achievements" src="output/metrics.plugin.achievements.compact.svg" width="400" />
+  </picture>
 </p>
 
 
