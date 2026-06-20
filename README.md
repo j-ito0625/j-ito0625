@@ -1,7 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-
 # Junsei Ito
 received the B.Eng. degree in electrical engineering and bioscience from Waseda University, Tokyo, Japan in 2025. He is currently a master’s student with the Department of Electrical Engineering and Bioscience, Waseda University. He is also a Japan Science and Technology Agency ACT-X
 researcher. 
