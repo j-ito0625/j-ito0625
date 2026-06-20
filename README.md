@@ -6,33 +6,9 @@
 received the B.Eng. degree in electrical engineering and bioscience from Waseda University, Tokyo, Japan in 2025. He is currently a master’s student with the Department of Electrical Engineering and Bioscience, Waseda University. He is also a Japan Science and Technology Agency ACT-X
 researcher. 
 
-He is engaged in interdisciplinary research combining **Control Theory** × **Information Science** × **Physics**, centered on systems control theory. For the essential constraints of physical systems such as partial observability and uncertainty, he explores new solutions by integrating the universal laws provided by Physics with the data-driven learning and estimation capabilities enabled by Information Science within the framework of control theory.
+I work on problems at the intersection of control theory, information science, and physics, with a foundation in systems control theory. I view the structural constraints inherent in physical systems, such as observation, information, and actuation constraints, not merely as technical obstacles but as fundamental conditions that shape what estimation, learning, and control can achieve.
+
+From this perspective, I seek to integrate the universal laws and interaction structures of physics with the data-driven learning and estimation capabilities of information science, within the framework of systems control theory. I am particularly interested in principles of intelligence and control that remain effective under structural constraints. I am also interested in cybernetics and emergence: how adaptive, ordered behavior and intelligence arise from local interactions and information-network structures, and how they can be described and designed.
 
 :wink: Visit my personal website: https://j-ito0625.github.io/
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.base.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" />
-    <img alt="github profile stats" src="output/metrics.base.svg" width="400" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/details.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" />
-    <img alt="most used languages" src="output/details.svg" width="400" />
-  </picture>
-</p>
-
-<!-- <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" />
-    <img alt="achievements" src="output/metrics.plugin.achievements.compact.svg" width="400" />
-  </picture>
-</p> -->
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
